@@ -43,6 +43,19 @@ $version = "1.0";
                 <h2>🎯 Próximos pasos</h2>
                 <p>Continuaré aprendiendo Git y PHP para convertirme en un mejor programador.</p>
             </div>
+
+              <div class="info-card">
+                <h2>👤 Sobre mi </h2>
+                <p><strong>Mi nombre es lucas y vivo en Paysandu</strong></p>
+                <p><strong>Estudiante de Ciberseguridad en formación, con interés en la protección de sistemas, redes y datos.</strong></p>
+              
+            </div>
+             <div class="info-card">
+                <h2>Nuevas Habilidades ⚡</h2>
+                <p><strong>Skill item: </strong>Control de versiones</p>
+                <p><strong>contenido : </strong>Git, GitHubd, SVN</p>
+              
+            </div>
         </main>
 
         <footer>
