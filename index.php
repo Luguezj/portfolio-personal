@@ -1,6 +1,6 @@
 <?php
-$nombre_estudiante = "Tu Nombre Aquí";
-$fecha_actual = date('d/m/Y');
+$nombre_estudiante = "Lucas Rodriguez";
+$fecha_actual = date('24/04/2006');
 $hora_actual = date('H:i:s');
 $version = "1.0";
 ?>
