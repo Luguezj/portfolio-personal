@@ -48,6 +48,9 @@ $version = "1.0";
                 <h2>👤 Sobre mi </h2>
                 <p><strong>Mi nombre es lucas y vivo en Paysandu</strong></p>
                 <p><strong>Estudiante de Ciberseguridad en formación, con interés en la protección de sistemas, redes y datos.</strong></p>
+                <p><strong>email: </strong>lucki201307@gmail.com<</p>
+                <p><strong>telefono:</strong>098318185</p>
+                <p><strong>redes sociales:</strong>@luguez247</p>
               
             </div>
 
