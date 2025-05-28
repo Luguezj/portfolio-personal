@@ -50,6 +50,23 @@ $version = "1.0";
                 <p><strong>Estudiante de Ciberseguridad en formación, con interés en la protección de sistemas, redes y datos.</strong></p>
               
             </div>
+
+
+  <h2>Educación</h2>
+    <div class="info-card">
+        <h3>Tecnologo en ciberseguridad</h3>
+        <p>Instituto Tecnologico Superior Paysandu </p>
+        <p>Especialización en Desarrollo Seguro de Aplicaciones</p>
+    </div>
+  <div class="info-card">
+        <h3>Certificación en Ciberseguridad</h3>
+        <p>Instituto Tecnologico Superior Paysandu</p>
+        <p>Certificación CISSP y CEH</p>
+  </div>
+
+
+
+
              <div class="info-card">
                 <h2>Nuevas Habilidades ⚡</h2>
                 <p><strong>Skill item: </strong>Control de versiones</p>
